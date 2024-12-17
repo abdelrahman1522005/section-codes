@@ -1,4 +1,3 @@
-# section-codes
 # section 1 : Docstring
 def divide(a, b):
     """
